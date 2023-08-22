@@ -1,6 +1,6 @@
 # Weather-App-Using-API
 
-Weather App
+Weather App Demo
 
 ![Untitled-1 copy](https://github.com/abulgit/Weather-App-Using-API/assets/140191921/cfa8e809-3a72-4a08-9e38-8de980c3a0c3)
 
